@@ -639,7 +639,7 @@ img {
 }
 
 .man__image {
-  height: 550px;
+  width: 320px;
   float: left;
 }
 
