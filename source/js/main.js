@@ -154,7 +154,7 @@ function displaySearchResults(results) {
         });
     } else {
         let noResultsElement = document.createElement('p');
-        noResultsElement.textContent = 'Нет результатов';
+        noResultsElement.textContent = '';
         searchhomeResults.appendChild(noResultsElement);
     }
 }
