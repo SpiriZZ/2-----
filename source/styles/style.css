@@ -857,7 +857,7 @@ img {
 
 }
 
-.idiom__video iframe {
+.idiom__video video {
   width: 640px;
   height: 480px;
 }
