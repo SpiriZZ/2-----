@@ -599,6 +599,15 @@ img {
   }
 }
 
+.apage__link {
+  color: var(--text-color);
+  transition: color 0.4s;
+}
+
+.apage__link:hover {
+  color: var(--first-color);
+}
+
 .Ahome__search {
   display: flex;
   justify-content: center;
